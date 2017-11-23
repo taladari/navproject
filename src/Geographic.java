@@ -14,8 +14,8 @@ import kmlUtils.KMLCreator;
 public class Geographic {
 
 	public static void main(String[] args) {
-		CsvProccessor.Proccess("src\\files\\program files");
-
+		CsvProccessor.Proccess("C:\\Users\\Tal Adari\\Documents\\data\\27.10\\OP3T");
+/*
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("What would you like to filter by?\n");
 		System.out.println("1. Time\n");
@@ -56,7 +56,7 @@ public class Geographic {
 			break;
 		}
 		scanner.close();
-
+*/
 	}
 
 

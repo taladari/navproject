@@ -46,7 +46,7 @@ public class WifiRecord {
 	}
 	
 	public int isEqual(WifiRecord record) {
-		if (this.getDateTime().toLocalDateTime() == record.getDateTime().toLocalDateTime()) {
+		if (this.getDateTime().toLocalDateTime().isEqual(record.getDateTime().toLocalDateTime())) {
 			return 0;
 		}
 		return 1;
