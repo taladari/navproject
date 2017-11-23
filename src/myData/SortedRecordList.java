@@ -1,7 +1,6 @@
 package myData;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 import structures.Wifi;
 import structures.WifiRecord;
@@ -42,14 +41,6 @@ public class SortedRecordList extends ArrayList<WifiRecord> {
 			System.out.println("nullpointer");
 		}
 			
-
-	}
-	
-	
-	
-	public void insertFilterd(WifiRecord rec, Wifi wifi) {
-		
-		Iterator<WifiRecord> itr= this.iterator();
 
 	}
 

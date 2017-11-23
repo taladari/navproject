@@ -28,7 +28,7 @@ public class KMLCreator {
 	
 	public static void CreateFilteredKML(String fileName, Filter filter) {
 		readCsvFile(fileName, filter);
-		writeKMLFile("filtered_by_" + filter.toString() + ".kml");
+		writeKMLFile(fileName.substring(0, fileName.lastIndexOf("\\")+1)+"filtered_by_" + filter.toString() + ".kml");
 	}
 
 	private static void writeKMLFile(String fileName) {
@@ -72,7 +72,9 @@ public class KMLCreator {
 			}
 			br.close();
 		}
-		
+		catch (IllegalArgumentException e) {
+			System.out.println("Illegal time format");
+		}
 		catch (Exception e) {
 			e.printStackTrace();
 		}

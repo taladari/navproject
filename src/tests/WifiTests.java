@@ -4,9 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import myData.Point3D;
 import structures.Wifi;
-import structures.WifiRecord;
 
 public class WifiTests {
 
