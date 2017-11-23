@@ -22,9 +22,9 @@ public class SortedRecordList extends ArrayList<WifiRecord> {
 					}
 				}
 				else if (toAdd.getDateTime().toLocalDateTime().isBefore(record.getDateTime().toLocalDateTime())) {
+					toAdd.networks = new SortedNetworksList();
+					toAdd.networks.insert(network);
 					this.add(this.indexOf(record), toAdd);
-					record.networks = new SortedNetworksList();
-					record.networks.insert(network);
 					return;
 				}
 				else if (this.indexOf(record) == this.size() - 1) {
