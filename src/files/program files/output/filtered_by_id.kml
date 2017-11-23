@@ -2,609 +2,870 @@
 <kml xmlns="http://www.opengis.net/kml/2.2"><Document><Style id="red"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href></Icon></IconStyle></Style><Style id="yellow"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></Icon></IconStyle></Style><Style id="green"><IconStyle><Icon><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name>
 <Placemark>
 <name><![CDATA[BEZEQINT-ACD1]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:a1:ac:d5</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:32:57.0</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:a1:ac:d5</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:32:57</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17603,32.10332</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[rachel1_2.4]]></name>
-<description><![CDATA[BSSID: <b>10:5a:f7:00:1b:49</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:32:57.0</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>10:5a:f7:00:1b:49</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:32:57</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17603,32.10332</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Moshe]]></name>
-<description><![CDATA[BSSID: <b>d0:0f:6d:82:b6:2f</b><br/>Frequency:<b>9</b><br/>Timestamp: <b>2017-11-15 19:32:57.0</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>d0:0f:6d:82:b6:2f</b><br/>Frequency:<b>9</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:32:57</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17603,32.10332</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Abizana]]></name>
-<description><![CDATA[BSSID: <b>00:14:bf:f2:3d:9d</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:32:57.0</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>00:14:bf:f2:3d:9d</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:32:57</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17603,32.10332</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[IL Pelephone]]></name>
-<description><![CDATA[BSSID: <b>42503_6791_2104322</b><br/>Frequency:<b>0</b><br/>Timestamp: <b>2017-11-15 19:32:57.0</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>42503_6791_2104322</b><br/>Frequency:<b>0</b><br/>Date: <b>2017-11-15 19:32:57</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:32:57</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17603,32.10332</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[i&n]]></name>
-<description><![CDATA[BSSID: <b>30:b5:c2:f4:1b:3b</b><br/>Frequency:<b>9</b><br/>Timestamp: <b>2017-11-15 19:33:01.0</b><br/>Date: <b>2017-11-15 19:33:01</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>30:b5:c2:f4:1b:3b</b><br/>Frequency:<b>9</b><br/>Date: <b>2017-11-15 19:33:01</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:01</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17531,32.10322</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[pushqin]]></name>
-<description><![CDATA[BSSID: <b>48:ee:0c:3d:4a:51</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:33:19.0</b><br/>Date: <b>2017-11-15 19:33:19</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>48:ee:0c:3d:4a:51</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:33:19</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:19</when>
+</TimeStamp>
 <Point>
 <coordinates>35.174606,32.102886</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[refael_2.4]]></name>
-<description><![CDATA[BSSID: <b>3c:1e:04:03:4d:bb</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:33:19.0</b><br/>Date: <b>2017-11-15 19:33:19</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>3c:1e:04:03:4d:bb</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:33:19</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:19</when>
+</TimeStamp>
 <Point>
 <coordinates>35.174606,32.102886</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Cellcomnet]]></name>
-<description><![CDATA[BSSID: <b>a0:4f:d4:45:f6:51</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:33:34.0</b><br/>Date: <b>2017-11-15 19:33:34</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>a0:4f:d4:45:f6:51</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:33:34</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:34</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17437,32.102768</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[nahalonc]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:ca:ab:9a</b><br/>Frequency:<b>10</b><br/>Timestamp: <b>2017-11-15 19:33:50.0</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:ca:ab:9a</b><br/>Frequency:<b>10</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172756,32.102165</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[BezeqFree]]></name>
-<description><![CDATA[BSSID: <b>14:af:db:ca:ab:9a</b><br/>Frequency:<b>10</b><br/>Timestamp: <b>2017-11-15 19:33:50.0</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:af:db:ca:ab:9a</b><br/>Frequency:<b>10</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172756,32.102165</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Melamed4]]></name>
-<description><![CDATA[BSSID: <b>00:23:cd:10:3d:b8</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:33:50.0</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>00:23:cd:10:3d:b8</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172756,32.102165</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[guest]]></name>
-<description><![CDATA[BSSID: <b>06:ae:db:56:3e:4d</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:33:50.0</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>06:ae:db:56:3e:4d</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172756,32.102165</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Shayg_123]]></name>
-<description><![CDATA[BSSID: <b>20:0c:c8:1e:8d:54</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:33:50.0</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>20:0c:c8:1e:8d:54</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:33:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:33:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172756,32.102165</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[afikim-wifi]]></name>
-<description><![CDATA[BSSID: <b>00:1a:dd:e2:dd:44</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:34:05.0</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>00:1a:dd:e2:dd:44</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:34:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172676,32.102127</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[ANRY_2.4]]></name>
-<description><![CDATA[BSSID: <b>90:8d:78:51:29:53</b><br/>Frequency:<b>3</b><br/>Timestamp: <b>2017-11-15 19:34:05.0</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>90:8d:78:51:29:53</b><br/>Frequency:<b>3</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:34:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172676,32.102127</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Melamed2]]></name>
-<description><![CDATA[BSSID: <b>d8:5d:4c:9d:7e:c2</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:34:05.0</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>d8:5d:4c:9d:7e:c2</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:34:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172676,32.102127</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[bz45314543]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:a3:c6:3a</b><br/>Frequency:<b>7</b><br/>Timestamp: <b>2017-11-15 19:34:05.0</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:a3:c6:3a</b><br/>Frequency:<b>7</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:34:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172676,32.102127</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[melamed5]]></name>
-<description><![CDATA[BSSID: <b>30:b5:c2:e9:e3:14</b><br/>Frequency:<b>4</b><br/>Timestamp: <b>2017-11-15 19:34:05.0</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>30:b5:c2:e9:e3:14</b><br/>Frequency:<b>4</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:34:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172676,32.102127</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[IL Pelephone]]></name>
-<description><![CDATA[BSSID: <b>42503_6791_2104323</b><br/>Frequency:<b>0</b><br/>Timestamp: <b>2017-11-15 19:34:05.0</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>42503_6791_2104323</b><br/>Frequency:<b>0</b><br/>Date: <b>2017-11-15 19:34:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:34:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.172676,32.102127</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[lior_2.4]]></name>
-<description><![CDATA[BSSID: <b>6c:b0:ce:36:b1:08</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:35:30.0</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>6c:b0:ce:36:b1:08</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:35:30</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168816,32.10092</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[sevillia]]></name>
-<description><![CDATA[BSSID: <b>28:c6:8e:37:23:5a</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:35:30.0</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>28:c6:8e:37:23:5a</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:35:30</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168816,32.10092</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[DAP-1360]]></name>
-<description><![CDATA[BSSID: <b>a0:ab:1b:ad:5f:0d</b><br/>Frequency:<b>13</b><br/>Timestamp: <b>2017-11-15 19:35:30.0</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>a0:ab:1b:ad:5f:0d</b><br/>Frequency:<b>13</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:35:30</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168816,32.10092</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[DIRECT-70-HP DeskJet 3830 series]]></name>
-<description><![CDATA[BSSID: <b>98:e7:f4:c6:0b:71</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:35:30.0</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>98:e7:f4:c6:0b:71</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:35:30</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168816,32.10092</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[huli844]]></name>
-<description><![CDATA[BSSID: <b>c4:04:15:63:a2:3e</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:35:30.0</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>c4:04:15:63:a2:3e</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:35:30</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168816,32.10092</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Bezeq Free]]></name>
-<description><![CDATA[BSSID: <b>5a:fc:af:91:a1:90</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:35:30.0</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>5a:fc:af:91:a1:90</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:35:30</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168816,32.10092</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Zevulun ]]></name>
-<description><![CDATA[BSSID: <b>e4:6f:13:70:c5:c8</b><br/>Frequency:<b>7</b><br/>Timestamp: <b>2017-11-15 19:35:30.0</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>e4:6f:13:70:c5:c8</b><br/>Frequency:<b>7</b><br/>Date: <b>2017-11-15 19:35:30</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:35:30</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168816,32.10092</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[city shop]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:58:14:55</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:36:33.0</b><br/>Date: <b>2017-11-15 19:36:33</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:58:14:55</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:36:33</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:36:33</when>
+</TimeStamp>
 <Point>
 <coordinates>35.171303,32.100845</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[515359065]]></name>
-<description><![CDATA[BSSID: <b>90:8d:78:52:78:27</b><br/>Frequency:<b>2</b><br/>Timestamp: <b>2017-11-15 19:36:33.0</b><br/>Date: <b>2017-11-15 19:36:33</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>90:8d:78:52:78:27</b><br/>Frequency:<b>2</b><br/>Date: <b>2017-11-15 19:36:33</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:36:33</when>
+</TimeStamp>
 <Point>
 <coordinates>35.171303,32.100845</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[eli]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:57:5f:bd</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:36:33.0</b><br/>Date: <b>2017-11-15 19:36:33</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:57:5f:bd</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:36:33</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:36:33</when>
+</TimeStamp>
 <Point>
 <coordinates>35.171303,32.100845</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[NIPPON_1846]]></name>
-<description><![CDATA[BSSID: <b>08:97:58:33:cc:90</b><br/>Frequency:<b>2</b><br/>Timestamp: <b>2017-11-15 19:36:33.0</b><br/>Date: <b>2017-11-15 19:36:33</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>08:97:58:33:cc:90</b><br/>Frequency:<b>2</b><br/>Date: <b>2017-11-15 19:36:33</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:36:33</when>
+</TimeStamp>
 <Point>
 <coordinates>35.171303,32.100845</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[BANA]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:3a:4a:5d</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:39:08.0</b><br/>Date: <b>2017-11-15 19:39:08</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:3a:4a:5d</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:39:08</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:39:08</when>
+</TimeStamp>
 <Point>
 <coordinates>35.170403,32.10053</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[DIRECT-JgC1860 Series]]></name>
-<description><![CDATA[BSSID: <b>32:cd:a7:ef:97:66</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:39:08.0</b><br/>Date: <b>2017-11-15 19:39:08</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>32:cd:a7:ef:97:66</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:39:08</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:39:08</when>
+</TimeStamp>
 <Point>
 <coordinates>35.170403,32.10053</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Pelephone MF910]]></name>
-<description><![CDATA[BSSID: <b>8c:79:67:9d:00:0d</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:39:56.0</b><br/>Date: <b>2017-11-15 19:39:56</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>8c:79:67:9d:00:0d</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:39:56</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:39:56</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17039,32.100517</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Yosi]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:c8:62:45</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:39:56.0</b><br/>Date: <b>2017-11-15 19:39:56</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:c8:62:45</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:39:56</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:39:56</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17039,32.100517</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[TP-LINK_4B81]]></name>
-<description><![CDATA[BSSID: <b>18:d6:c7:d1:4b:81</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:39:56.0</b><br/>Date: <b>2017-11-15 19:39:56</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>18:d6:c7:d1:4b:81</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:39:56</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:39:56</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17039,32.100517</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[lxm2008]]></name>
-<description><![CDATA[BSSID: <b>48:0f:cf:77:67:50</b><br/>Frequency:<b>7</b><br/>Timestamp: <b>2017-11-15 19:39:57.0</b><br/>Date: <b>2017-11-15 19:39:57</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>48:0f:cf:77:67:50</b><br/>Frequency:<b>7</b><br/>Date: <b>2017-11-15 19:39:57</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:39:57</when>
+</TimeStamp>
 <Point>
 <coordinates>35.170418,32.100506</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[IL Pelephone]]></name>
-<description><![CDATA[BSSID: <b>42503_6701_4465815</b><br/>Frequency:<b>0</b><br/>Timestamp: <b>2017-11-15 19:40:33.0</b><br/>Date: <b>2017-11-15 19:40:33</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>42503_6701_4465815</b><br/>Frequency:<b>0</b><br/>Date: <b>2017-11-15 19:40:33</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:40:33</when>
+</TimeStamp>
 <Point>
 <coordinates>35.170456,32.10052</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[BezeqFree]]></name>
-<description><![CDATA[BSSID: <b>14:af:db:be:40:7a</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:40:54.0</b><br/>Date: <b>2017-11-15 19:40:54</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:af:db:be:40:7a</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:40:54</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:40:54</when>
+</TimeStamp>
 <Point>
 <coordinates>35.170856,32.100574</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[aya2017]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:be:40:7a</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:40:54.0</b><br/>Date: <b>2017-11-15 19:40:54</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:be:40:7a</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:40:54</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:40:54</when>
+</TimeStamp>
 <Point>
 <coordinates>35.170856,32.100574</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[NIPPON_2341]]></name>
-<description><![CDATA[BSSID: <b>08:97:58:33:d0:6e</b><br/>Frequency:<b>3</b><br/>Timestamp: <b>2017-11-15 19:42:05.0</b><br/>Date: <b>2017-11-15 19:42:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>08:97:58:33:d0:6e</b><br/>Frequency:<b>3</b><br/>Date: <b>2017-11-15 19:42:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.170834,32.101215</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[liola]]></name>
-<description><![CDATA[BSSID: <b>c0:ff:d4:7b:c5:0e</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:42:20.0</b><br/>Date: <b>2017-11-15 19:42:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>c0:ff:d4:7b:c5:0e</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:42:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169716,32.100887</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[123456789]]></name>
-<description><![CDATA[BSSID: <b>f0:7d:68:73:fc:c6</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:42:20.0</b><br/>Date: <b>2017-11-15 19:42:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>f0:7d:68:73:fc:c6</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:42:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169716,32.100887</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[DIRECT-F7-HP DeskJet 3830 series]]></name>
-<description><![CDATA[BSSID: <b>a0:8c:fd:0e:c6:20</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:42:20.0</b><br/>Date: <b>2017-11-15 19:42:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>a0:8c:fd:0e:c6:20</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:42:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169716,32.100887</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[lionking]]></name>
-<description><![CDATA[BSSID: <b>c0:ff:d4:7c:f4:ed</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:42:35.0</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>c0:ff:d4:7c:f4:ed</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169144,32.100975</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Bezeq Free 6976FA]]></name>
-<description><![CDATA[BSSID: <b>62:46:9a:69:76:fb</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:42:35.0</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>62:46:9a:69:76:fb</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169144,32.100975</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[BezeqNGN_64640]]></name>
-<description><![CDATA[BSSID: <b>e0:46:9a:69:76:fa</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:42:35.0</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>e0:46:9a:69:76:fa</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169144,32.100975</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Bezeq Free 6A5C59]]></name>
-<description><![CDATA[BSSID: <b>5a:ff:d4:7c:f4:ee</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:42:35.0</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>5a:ff:d4:7c:f4:ee</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169144,32.100975</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Yuvalim]]></name>
-<description><![CDATA[BSSID: <b>00:1b:9e:60:7e:f8</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:42:35.0</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>00:1b:9e:60:7e:f8</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169144,32.100975</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[DIR-300A]]></name>
-<description><![CDATA[BSSID: <b>1c:5f:2b:85:ae:60</b><br/>Frequency:<b>5</b><br/>Timestamp: <b>2017-11-15 19:42:35.0</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>1c:5f:2b:85:ae:60</b><br/>Frequency:<b>5</b><br/>Date: <b>2017-11-15 19:42:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169144,32.100975</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Gan lishomron]]></name>
-<description><![CDATA[BSSID: <b>00:10:f3:6b:85:71</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:42:50.0</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>00:10:f3:6b:85:71</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169655,32.10113</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[CocoJambo 5GHz_2GExt]]></name>
-<description><![CDATA[BSSID: <b>d0:0e:d9:17:cd:71</b><br/>Frequency:<b>6</b><br/>Timestamp: <b>2017-11-15 19:42:50.0</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>d0:0e:d9:17:cd:71</b><br/>Frequency:<b>6</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169655,32.10113</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[225_fc3f60]]></name>
-<description><![CDATA[BSSID: <b>c4:12:f5:fc:3f:64</b><br/>Frequency:<b>9</b><br/>Timestamp: <b>2017-11-15 19:42:50.0</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>c4:12:f5:fc:3f:64</b><br/>Frequency:<b>9</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169655,32.10113</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[tab_EXT]]></name>
-<description><![CDATA[BSSID: <b>14:cc:20:eb:ec:57</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:42:50.0</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:cc:20:eb:ec:57</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169655,32.10113</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[ability]]></name>
-<description><![CDATA[BSSID: <b>c4:12:f5:fd:98:6d</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:42:50.0</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>c4:12:f5:fd:98:6d</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169655,32.10113</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[BEZEQINT-B999]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:43:b9:9d</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:42:50.0</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:43:b9:9d</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:42:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:42:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169655,32.10113</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Crossfit R.E.L 2.4]]></name>
-<description><![CDATA[BSSID: <b>10:5a:f7:06:df:d5</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:43:05.0</b><br/>Date: <b>2017-11-15 19:43:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>10:5a:f7:06:df:d5</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:43:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17031,32.101555</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[arielhasmal_2.4]]></name>
-<description><![CDATA[BSSID: <b>10:5a:f7:00:4f:71</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:43:20.0</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>10:5a:f7:00:4f:71</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169388,32.10133</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[orlie]]></name>
-<description><![CDATA[BSSID: <b>c4:04:15:63:ee:0a</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:43:20.0</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>c4:04:15:63:ee:0a</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169388,32.10133</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Bezeq Free AA0FE2]]></name>
-<description><![CDATA[BSSID: <b>5a:b0:ce:a9:47:d3</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:43:20.0</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>5a:b0:ce:a9:47:d3</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169388,32.10133</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[shifonariel]]></name>
-<description><![CDATA[BSSID: <b>6c:b0:ce:a9:47:d2</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:43:20.0</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>6c:b0:ce:a9:47:d2</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169388,32.10133</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[BezeqFree]]></name>
-<description><![CDATA[BSSID: <b>14:af:db:cd:32:22</b><br/>Frequency:<b>5</b><br/>Timestamp: <b>2017-11-15 19:43:20.0</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:af:db:cd:32:22</b><br/>Frequency:<b>5</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169388,32.10133</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Skalis]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:a4:be:4a</b><br/>Frequency:<b>10</b><br/>Timestamp: <b>2017-11-15 19:43:20.0</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:a4:be:4a</b><br/>Frequency:<b>10</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169388,32.10133</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Esco]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:cd:32:22</b><br/>Frequency:<b>5</b><br/>Timestamp: <b>2017-11-15 19:43:20.0</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:cd:32:22</b><br/>Frequency:<b>5</b><br/>Date: <b>2017-11-15 19:43:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.169388,32.10133</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[yad2.4]]></name>
-<description><![CDATA[BSSID: <b>90:8d:78:51:29:4a</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:43:35.0</b><br/>Date: <b>2017-11-15 19:43:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>90:8d:78:51:29:4a</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:43:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168484,32.10113</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Avraham2.4]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:58:9c:b5</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:43:35.0</b><br/>Date: <b>2017-11-15 19:43:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:58:9c:b5</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:43:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168484,32.10113</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Manchis-Ariel]]></name>
-<description><![CDATA[BSSID: <b>04:a1:51:e8:89:1c</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:43:50.0</b><br/>Date: <b>2017-11-15 19:43:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>04:a1:51:e8:89:1c</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:43:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.16774,32.10136</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[verd1_2.4]]></name>
-<description><![CDATA[BSSID: <b>04:a1:51:e7:fe:18</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:43:50.0</b><br/>Date: <b>2017-11-15 19:43:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>04:a1:51:e7:fe:18</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:43:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:43:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.16774,32.10136</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[alon_2.4G]]></name>
-<description><![CDATA[BSSID: <b>20:0c:c8:11:bc:ee</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:44:05.0</b><br/>Date: <b>2017-11-15 19:44:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>20:0c:c8:11:bc:ee</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:44:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:44:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168613,32.10166</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[AndroidAP]]></name>
-<description><![CDATA[BSSID: <b>48:27:ea:cf:b3:29</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:44:05.0</b><br/>Date: <b>2017-11-15 19:44:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>48:27:ea:cf:b3:29</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:44:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:44:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.168613,32.10166</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[mark]]></name>
-<description><![CDATA[BSSID: <b>a0:4f:d4:cb:d5:b9</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:44:20.0</b><br/>Date: <b>2017-11-15 19:44:20</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>a0:4f:d4:cb:d5:b9</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:44:20</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:44:20</when>
+</TimeStamp>
 <Point>
 <coordinates>35.16955,32.102375</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[IL Pelephone]]></name>
-<description><![CDATA[BSSID: <b>42503_6701_4465811</b><br/>Frequency:<b>0</b><br/>Timestamp: <b>2017-11-15 19:44:35.0</b><br/>Date: <b>2017-11-15 19:44:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>42503_6701_4465811</b><br/>Frequency:<b>0</b><br/>Date: <b>2017-11-15 19:44:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:44:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.171135,32.102894</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[IL Pelephone]]></name>
-<description><![CDATA[BSSID: <b>42503_6701_4465816</b><br/>Frequency:<b>0</b><br/>Timestamp: <b>2017-11-15 19:44:50.0</b><br/>Date: <b>2017-11-15 19:44:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>42503_6701_4465816</b><br/>Frequency:<b>0</b><br/>Date: <b>2017-11-15 19:44:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:44:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17265,32.10354</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Hani_wifi_2.4]]></name>
-<description><![CDATA[BSSID: <b>10:5a:f7:01:ee:a9</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:44:50.0</b><br/>Date: <b>2017-11-15 19:44:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>10:5a:f7:01:ee:a9</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:44:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:44:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17265,32.10354</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[HOTBOX]]></name>
-<description><![CDATA[BSSID: <b>7c:03:4c:bb:36:88</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:44:50.0</b><br/>Date: <b>2017-11-15 19:44:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>7c:03:4c:bb:36:88</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:44:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:44:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17265,32.10354</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Tanya_2.4]]></name>
-<description><![CDATA[BSSID: <b>6c:b0:ce:ac:b7:d2</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:44:50.0</b><br/>Date: <b>2017-11-15 19:44:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>6c:b0:ce:ac:b7:d2</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:44:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:44:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.17265,32.10354</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Noya]]></name>
-<description><![CDATA[BSSID: <b>14:ae:db:42:a2:d5</b><br/>Frequency:<b>11</b><br/>Timestamp: <b>2017-11-15 19:45:35.0</b><br/>Date: <b>2017-11-15 19:45:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>14:ae:db:42:a2:d5</b><br/>Frequency:<b>11</b><br/>Date: <b>2017-11-15 19:45:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177563,32.10392</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[koma3]]></name>
-<description><![CDATA[BSSID: <b>80:1f:02:e5:d6:2b</b><br/>Frequency:<b>10</b><br/>Timestamp: <b>2017-11-15 19:45:35.0</b><br/>Date: <b>2017-11-15 19:45:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>80:1f:02:e5:d6:2b</b><br/>Frequency:<b>10</b><br/>Date: <b>2017-11-15 19:45:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177563,32.10392</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[koma1]]></name>
-<description><![CDATA[BSSID: <b>30:b5:c2:6c:bf:ac</b><br/>Frequency:<b>2</b><br/>Timestamp: <b>2017-11-15 19:45:35.0</b><br/>Date: <b>2017-11-15 19:45:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>30:b5:c2:6c:bf:ac</b><br/>Frequency:<b>2</b><br/>Date: <b>2017-11-15 19:45:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177563,32.10392</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[tabib1]]></name>
-<description><![CDATA[BSSID: <b>48:ee:0c:3b:22:4b</b><br/>Frequency:<b>9</b><br/>Timestamp: <b>2017-11-15 19:45:35.0</b><br/>Date: <b>2017-11-15 19:45:35</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>48:ee:0c:3b:22:4b</b><br/>Frequency:<b>9</b><br/>Date: <b>2017-11-15 19:45:35</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:35</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177563,32.10392</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[dor2.4]]></name>
-<description><![CDATA[BSSID: <b>7c:b7:33:97:47:40</b><br/>Frequency:<b>10</b><br/>Timestamp: <b>2017-11-15 19:45:50.0</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>7c:b7:33:97:47:40</b><br/>Frequency:<b>10</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177357,32.103493</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Daniel_Porch]]></name>
-<description><![CDATA[BSSID: <b>a4:2b:b0:e0:47:cf</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:45:50.0</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>a4:2b:b0:e0:47:cf</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177357,32.103493</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[BSPOT]]></name>
-<description><![CDATA[BSSID: <b>00:01:40:41:18:27</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:45:50.0</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>00:01:40:41:18:27</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177357,32.103493</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Adi_Eliran]]></name>
-<description><![CDATA[BSSID: <b>c0:a0:bb:cc:ff:f8</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:45:50.0</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>c0:a0:bb:cc:ff:f8</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177357,32.103493</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Daniel]]></name>
-<description><![CDATA[BSSID: <b>d4:d1:84:fe:1c:31</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:45:50.0</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>d4:d1:84:fe:1c:31</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177357,32.103493</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[Yaakov]]></name>
-<description><![CDATA[BSSID: <b>a0:ab:1b:5e:f9:e6</b><br/>Frequency:<b>5</b><br/>Timestamp: <b>2017-11-15 19:45:50.0</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>a0:ab:1b:5e:f9:e6</b><br/>Frequency:<b>5</b><br/>Date: <b>2017-11-15 19:45:50</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:45:50</when>
+</TimeStamp>
 <Point>
 <coordinates>35.177357,32.103493</coordinates>
 </Point>
 </Placemark>
 <Placemark>
 <name><![CDATA[TuxZone]]></name>
-<description><![CDATA[BSSID: <b>6c:3b:6b:38:a1:6f</b><br/>Frequency:<b>1</b><br/>Timestamp: <b>2017-11-15 19:46:05.0</b><br/>Date: <b>2017-11-15 19:46:05</b>]]></description><styleUrl>#green</styleUrl>
+<description><![CDATA[BSSID: <b>6c:3b:6b:38:a1:6f</b><br/>Frequency:<b>1</b><br/>Date: <b>2017-11-15 19:46:05</b>]]></description><styleUrl>#green</styleUrl>
+<TimeStamp>
+<when>2017-11-15T19:46:05</when>
+</TimeStamp>
 <Point>
 <coordinates>35.176098,32.103367</coordinates>
 </Point>

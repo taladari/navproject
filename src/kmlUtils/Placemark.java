@@ -22,8 +22,7 @@ public class Placemark {
 		this.wifi = new Wifi(wifi);
 		name = "<name><![CDATA[" + wifi.getSSID() + "]]></name>";
 		description = "<description><![CDATA[BSSID: <b>" + wifi.getMac() + "</b><br/>Frequency:<b>"
-				+ wifi.getFreq() + "</b><br/>Timestamp: <b>" 
-				+ new Timestamp(record.getDateTime().getMillis()).toString()
+				+ wifi.getFreq()
 				+ "</b><br/>Date: <b>" + record.getDateTime().toString(format) + "</b>]]></description>";
 		String color = wifi.getSignal() < new Random(-100).nextInt() ? "green" : "red";
 		styleUrl = "<styleUrl>#" + color + "</styleUrl>";
@@ -32,7 +31,10 @@ public class Placemark {
 	}
 	
 	public String toString() {
+		String timestamp = record.getDateTime().toString(format).split(" ")[0] + "T"
+				+ record.getDateTime().toString(format).split(" ")[1];
 		String ans = "<Placemark>\n" + name + "\n" + description + styleUrl + "\n"
+				+ "<TimeStamp>\n<when>" + timestamp + "</when>\n</TimeStamp>\n"
 				+ "<Point>\n" + "<coordinates>" + coordinates.getLon() + "," + coordinates.getLat()
 				+ "</coordinates>\n</Point>\n</Placemark>";
 		return ans;
